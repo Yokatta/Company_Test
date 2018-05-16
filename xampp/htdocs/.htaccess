@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond $1 !^(index\.php|images|robots\.txt|.*\.svg|.*\.jar|.*\.css|.*\.pdf|.*\.js|.*\.css|.*\.ico|.*\.jpg|.*\.jpeg|.*\.png|.*\.gif|.*\.JPG|.*\.JPEG|.*\.PNG|.*\.GIF|.*\.png)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+</IfModule>

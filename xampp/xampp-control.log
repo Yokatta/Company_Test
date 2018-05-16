@@ -1,0 +1,47 @@
+2:41:48  [main] 	Initializing Control Panel
+2:41:48  [main] 	Windows Version: Windows 7 Professional  64-bit
+2:41:48  [main] 	XAMPP Version: 7.2.5
+2:41:48  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+2:41:48  [main] 	You are not running with administrator rights! This will work for
+2:41:48  [main] 	most application stuff but whenever you do something with services
+2:41:48  [main] 	there will be a security dialogue or things will break! So think 
+2:41:48  [main] 	about running this application with administrator rights!
+2:41:48  [main] 	XAMPP Installation Directory: "c:\users\drew\desktop\xampp\"
+2:41:48  [main] 	Checking for prerequisites
+2:41:48  [main] 	All prerequisites found
+2:41:48  [main] 	Initializing Modules
+2:41:48  [Apache] 	XAMPP Apache is already running on port 80
+2:41:48  [Apache] 	XAMPP Apache is already running on port 443
+2:41:48  [main] 	Starting Check-Timer
+2:41:48  [main] 	Control Panel Ready
+2:41:52  [mysql] 	Attempting to start MySQL app...
+2:41:53  [mysql] 	Status change detected: running
+2:41:56  [mysql] 	Status change detected: stopped
+2:41:56  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:41:56  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:41:56  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:41:56  [mysql] 	Press the Logs button to view error logs and check
+2:41:56  [mysql] 	the Windows Event Viewer for more clues
+2:41:56  [mysql] 	If you need more help, copy and post this
+2:41:56  [mysql] 	entire log window on the forums
+2:42:01  [mysql] 	Attempting to start MySQL app...
+2:42:01  [mysql] 	Status change detected: running
+2:42:03  [mysql] 	Status change detected: stopped
+2:42:03  [mysql] 	Error: MySQL shutdown unexpectedly.
+2:42:03  [mysql] 	This may be due to a blocked port, missing dependencies, 
+2:42:03  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+2:42:03  [mysql] 	Press the Logs button to view error logs and check
+2:42:03  [mysql] 	the Windows Event Viewer for more clues
+2:42:03  [mysql] 	If you need more help, copy and post this
+2:42:03  [mysql] 	entire log window on the forums
+2:42:15  [Apache] 	Status change detected: stopped
+2:42:15  [Apache] 	Error: Apache shutdown unexpectedly.
+2:42:15  [Apache] 	This may be due to a blocked port, missing dependencies, 
+2:42:15  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+2:42:15  [Apache] 	Press the Logs button to view error logs and check
+2:42:15  [Apache] 	the Windows Event Viewer for more clues
+2:42:15  [Apache] 	If you need more help, copy and post this
+2:42:15  [Apache] 	entire log window on the forums
+2:42:44  [main] 	Deinitializing Modules
+2:42:44  [main] 	Deinitializing Control Panel
+
